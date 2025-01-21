@@ -1,4 +1,4 @@
-Coffee Shop Sales Analysis 
+Coffee Shop Sales Analysis (Excel And Power Query)
 
 In today's data-driven landscape, effectively visualizing datasets informed decision-making, particularly within the context of a coffee shop's operational analysis. 
 
